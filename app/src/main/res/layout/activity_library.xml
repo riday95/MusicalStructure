@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/musiclibrary"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nowplaying"
+    android:orientation="vertical"
+    tools:context=".LibraryActivity">
+
+    <ImageButton
+        android:id="@+id/arabic_cat"
+        style="@style/ImagineButtonStyle"
+        android:background="@drawable/arabic_bak" />
+
+    <ImageButton
+        android:id="@+id/hindi_cat"
+        style="@style/ImagineButtonStyle"
+        android:background="@drawable/hindi_bak" />
+
+    <ImageButton
+        android:id="@+id/english_cat"
+        style="@style/ImagineButtonStyle"
+        android:background="@drawable/eng_bak" />
+
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.musicapp">
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme">
+        <activity
+            android:name=".LibraryActivity"
+            android:label="@string/mainlabel"
+            android:theme="@style/Theme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NowPlaying"
+            android:label="@string/playinglabel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HindiActivity"
+            android:label="@string/hindilabel"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".EnglishActivity"
+            android:label="@string/englishlabel"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".ArabicActivity"
+            android:label="@string/arabiclabel"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>

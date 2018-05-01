@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Toolbar label -->
+    <string name="hindilabel">Hindi Songs</string>
+    <string name="englishlabel">English Songs</string>
+    <string name="arabiclabel">Arabic Songs</string>
+    <string name="playinglabel">Now Playing</string>
+    <string name="mainlabel">Music App</string>
+
+    <!-- Bottom Nav label -->
+    <string name="hindiNavlabel">Hindi</string>
+    <string name="englishNavlabel">English</string>
+    <string name="arabicNavlabel">Arabic</string>
+    <string name="homeNavlabel">Home</string>
+
+
+    <!-- Arabic songs -->
+    <string name="nancy">Nancy Ajram</string>
+    <string name="nancy_song_title"> Aam Ballish Hibbak</string>
+    <string name="saad">Saad Lamjarred</string>
+    <string name="saad_song_1">Lm3allem</string>
+    <string name="douzi">Douzi</string>
+    <string name="douzi_song_title">Mina</string>
+    <string name="saad_song_2">Let Go</string>
+    <!-- Hindi songs -->
+    <string name="atif">Atif Aslam</string>
+    <string name="atif_song_title">O Saathi</string>
+    <string name="rahat">Rahat Fateh Ali Khan</string>
+    <string name="rahat_song_title">Sanu Ek Pal Chain</string>
+    <string name="honey">Yo Yo Honey Singh, Ishers, Simar Kaur</string>
+    <string name="honey_song_title">Dil Chori</string>
+    <string name="arjit">JAM8, Arijit Singh, Harshdeep Kaur</string>
+    <string name="arijit_song_title">Zaalima</string>
+    <!-- English songs -->
+    <string name="imagine">Imagine Dragons</string>
+    <string name="imagine_song_title">Believer</string>
+    <string name="demi">Cheat Codes ft Demi Lovato</string>
+    <string name="demi_songs_title">No Promises</string>
+    <string name="alan">Alan Walker ft Noah Cyrus</string>
+    <string name="alan_song_title">All Falls Down</string>
+    <string name="geazy">G-Eazy and Kehlani</string>
+    <string name="geazy_song_title">Good Life</string>
+
+</resources>

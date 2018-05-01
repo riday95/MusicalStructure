@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ImgButtHeight">0dp</dimen>
+    <dimen name="ImgButtWeight">1</dimen>
+
+    <!-- NowPlaying styles -->
+    <dimen name="NowplayingImgViewStyle_width">250dp</dimen>
+    <dimen name="NowplayingImgViewStyle_height">250dp</dimen>
+    <dimen name="NowplayingImgViewStyle_layMarginTop">14dp</dimen>
+
+    <dimen name="NowplayingButtonStyle_marginBottom">65dp</dimen>
+
+    <dimen name="NowplayingSeekbarStyle_width">270dp</dimen>
+    <dimen name="NowplayingSeekbarStyle_marginBottom">200dp</dimen>
+
+    <dimen name="NowplayingTextStyleOne_margin">24dp</dimen>
+    <dimen name="NowplayingTextStyleOne_textSize">18sp</dimen>
+
+    <dimen name="NowplayingTextStyleTwo_textSize">14sp</dimen>
+
+    <!-- Library styles -->
+    <dimen name="LibraryLinearLayout_thumb_padding">4dp</dimen>
+    <dimen name="LibraryLinearLayout_thumb_marginRight">5dp</dimen>
+
+    <dimen name="LibraryLinearLayout_thumb_img_width">70dp</dimen>
+    <dimen name="LibraryLinearLayout_thumb_img_height">70dp</dimen>
+
+    <dimen name="LibraryTextStyleOne_textSize">18sp</dimen>
+
+    <dimen name="LibraryTextStyleTwo_textSize">14sp</dimen>
+
+
+</resources>
